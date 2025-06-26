@@ -23,13 +23,15 @@ Linux Mint is a distribution of Linux aimed primarily at the crowd that wants so
 
 ## Installation
 
-Installation is extremely simplified. Provide a username and password for a user account, specify where you want it to be installed, and let the installer do the work.
-The only thing that I can add is that if you're installing this in a virtual environment, I recommend that you install the package "qemu-guest-utils". This will allow the VM to specifically 
+Installation is extremely simple. Provide a username and password for a user account, specify where you want it to be installed, and let the installer do the work.
+
+>[!NOTE] Unless you specifically instruct it otherwise, it *will* overwrite any data on the drive you decide to install it on. 
 
 ## Basic Productivity Applications
 
 Linux Mint has an app store, not dissimilar to the one that Apple uses. For everyday usage, I'd recommend: 
 - LibreOffice, a suite of programs similar to Microsoft Office, but open-source
-- GIMP - an image manipulation program like Photoshop
+  - An alternative with an interface closer to Microsoft Office is OnlyOffice, but it's a little less well-supported.
+- GIMP - an image manipulation program like Photoshop.
 - Google Chrome - exactly what it sounds like. Firefox works too, but it's been falling behind recently.
 Steam is also available on the store, but Mint isn't particularly well known for its out-of-the-box functionality with gaming or Nvidia cards, so your mileage may vary.

@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Intro to Linux Mint",
+    "url": "/posts/mint-intro/",
+    "categories": "Linux, Intro",
+    "tags": "Mint, Distrohopping",
+    "date": "2025-06-10 16:25:00 -0500",
+    "content": "Hey everyone! This is just a quick little introduction to Linux Mint for those thinking about hopping off of the Windows train.  What is Linux Mint?  Linux Mint is a distribution of Linux aimed pri..."
+  },
+  {
+    "title": "test",
+    "url": "/posts/test/",
+    "categories": "test, helloworld",
+    "tags": "whatamidoing",
+    "date": "2025-06-10 15:15:00 -0500",
+    "content": "Hello world!"
+  }
+  
+]
+
